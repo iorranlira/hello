@@ -7,7 +7,7 @@ license:             BSD3
 license-file:        LICENSE
 author:              Iorran Lira
 maintainer:          iorranlira@gmail.com
-copyright:           2016, Iorran
+copyright:           2024, Iorran
 category:            Web
 build-type:          Simple
 cabal-version:       >=1.10
